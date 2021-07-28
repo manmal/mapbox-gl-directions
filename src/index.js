@@ -1,3 +1,1 @@
-import MapboxDirections from './directions';
-
-module.exports = MapboxDirections;
+export { default as MapboxDirections } from './directions';
